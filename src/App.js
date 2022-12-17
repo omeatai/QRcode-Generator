@@ -20,7 +20,6 @@ function App() {
 
   const handleChoice = (e) => {
     setFiletype(e.target.value);
-    console.log(e.target.value);
   };
 
   return (
