@@ -6,4 +6,5 @@ React QRcode Generator by Ifeanyi Omeata
 
 Demo: https://qrcode-ifeanyi.vercel.app/ <br>
 Watch on Youtube: https://youtu.be/7oITMoDR4Us <br>
+Website: https://ifeanyiomeata.com <br>
 Tech Stack: React, Javascript, TailwindCSS, Chat-GPT, Vercel
