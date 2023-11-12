@@ -1,4 +1,4 @@
-# React QRcode-Generator
+# React QR code-Generator
 
 ## Introduction
 
