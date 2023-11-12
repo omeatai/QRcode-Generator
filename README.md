@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a modern QRcode Generator built with React.js by Ifeanyi Omeata.
+This is a modern QR code Generator built with React.js by Ifeanyi Omeata.
 
 Demo: https://qrcode-ifeanyi.vercel.app/ <br>
 Watch on Youtube: https://youtu.be/7oITMoDR4Us <br>
