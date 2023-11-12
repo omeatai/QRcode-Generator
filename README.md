@@ -16,6 +16,10 @@ Website: https://ifeanyiomeata.com <br>
 - Chat-GPT [https://chat.openai.com/](https://chat.openai.com/)
 - Vercel [https://vercel.com/](https://vercel.com/)
 
+## Demo
+
+### [https://qrcode-ifeanyi.vercel.app/](https://qrcode-ifeanyi.vercel.app/)
+
 <img width="1440" alt="p-qrcode" src="https://user-images.githubusercontent.com/32337103/209725778-93352d46-9357-40f0-b8fe-a51cfb78bb6f.png">
 
 
